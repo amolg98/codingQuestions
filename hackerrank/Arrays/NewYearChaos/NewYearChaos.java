@@ -1,4 +1,4 @@
-
+package hackerrank.Arrays.NewYearChaos;
 
 import java.util.*;
 import java.io.IOException;

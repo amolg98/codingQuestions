@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch fib",
+            "request": "launch",
+            "mainClass": "Extra.fib",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraysLeftRotation",
+            "request": "launch",
+            "mainClass": "hackerrank.Arrays.ArraysLeftRotation.ArraysLeftRotation",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewYearChaos",
+            "request": "launch",
+            "mainClass": "hackerrank.Arrays.NewYearChaos.NewYearChaos",
+            "projectName": "codingQuestions_e1e39e03"
+        }
+    ]
+}
