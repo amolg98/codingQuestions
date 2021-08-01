@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IsUnique",
+            "request": "launch",
+            "mainClass": "CTCI.IsUnique",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotateArray",
+            "request": "launch",
+            "mainClass": "leetcode.RotateArray",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "Extra.MergeSort",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
