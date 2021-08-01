@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CheckPermuatation",
+            "request": "launch",
+            "mainClass": "CTCI.CheckPermuatation",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
             "name": "Launch IsUnique",
             "request": "launch",
             "mainClass": "CTCI.IsUnique",
