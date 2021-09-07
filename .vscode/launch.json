@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Inheritance",
+            "request": "launch",
+            "mainClass": "hackerrank.Java.Inheritance",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionHandlingPart2",
+            "request": "launch",
+            "mainClass": "hackerrank.Java.ExceptionHandlingPart2",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionHandling",
+            "request": "launch",
+            "mainClass": "hackerrank.Java.ExceptionHandling",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComparatorHR",
+            "request": "launch",
+            "mainClass": "hackerrank.Java.ComparatorHR",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringTokens",
+            "request": "launch",
+            "mainClass": "hackerrank.Java.StringTokens",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch PPExtra",
+            "request": "launch",
+            "mainClass": "Extra.PPExtra",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch BeaconCoderPadSolution",
+            "request": "launch",
+            "mainClass": "Extra.BeaconCoderPadSolution",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch AllSubstrings",
+            "request": "launch",
+            "mainClass": "Extra.AllSubstrings",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch Anagrams",
+            "request": "launch",
+            "mainClass": "hackerrank.DictionariesAndHashMaps.Anagrams",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoStrings",
+            "request": "launch",
+            "mainClass": "hackerrank.DictionariesAndHashMaps.TwoStrings",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Extra.Solution",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
             "name": "Launch CheckPermuatation",
             "request": "launch",
             "mainClass": "CTCI.CheckPermuatation",
