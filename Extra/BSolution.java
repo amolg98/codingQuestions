@@ -3,7 +3,7 @@ package Extra;
 import java.util.List;
 import java.util.ArrayList;
 
-public class BeaconSolution {
+public class BSolution {
 
     public List<Integer> solutionA(int A, int B) {
 
@@ -42,8 +42,6 @@ public class BeaconSolution {
 
         int len_a = st_a.length();
         int len_b = st_b.length();
-
-        List<Integer> output = new ArrayList<>();
 
         if (len_a > len_b) {
             return result;

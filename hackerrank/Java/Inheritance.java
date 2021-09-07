@@ -1,7 +1,5 @@
 package hackerrank.Java;
 
-import java.util.*;
-
 class A {
     private int length;
     private int width;

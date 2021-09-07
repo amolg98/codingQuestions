@@ -1,6 +1,6 @@
 package Extra;
 
-public class AltimetrikSolution {
+public class AltiMSolution {
 
     public int reverse(int x) {
         int y = 0;
@@ -15,7 +15,7 @@ public class AltimetrikSolution {
 
     public static void main(String[] args) {
         int x = 112;
-        AltimetrikSolution solution = new AltimetrikSolution();
+        AltiMSolution solution = new AltiMSolution();
         System.out.println(solution.reverse(x));
 
         x = -94168136;

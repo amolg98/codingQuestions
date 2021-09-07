@@ -2,7 +2,7 @@ package Extra;
 
 import java.util.*;
 
-public class BeaconCoderPadSolution {
+public class BCoderPadSolution {
 
 
     // n 
