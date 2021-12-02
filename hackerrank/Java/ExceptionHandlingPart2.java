@@ -48,10 +48,8 @@ public class ExceptionHandlingPart2 {
             System.out.println(my_calculator.power(n,p));
 
         } catch (Exception e) {
-            //TODO: handle exception
+            // handle exception
             System.out.println(e);
         }
-
-
     }
 }

@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SwapNodes",
+            "request": "launch",
+            "mainClass": "hackerrank.Trees.SwapNodes",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Extra.Test",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch MarkAndToys",
+            "request": "launch",
+            "mainClass": "hackerrank.Sorting.MarkAndToys",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch HeightOfABinaryTree",
+            "request": "launch",
+            "mainClass": "hackerrank.Trees.HeightOfABinaryTree",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsPowerOfTwo",
+            "request": "launch",
+            "mainClass": "Extra.IsPowerOfTwo",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch PriorityCaching",
+            "request": "launch",
+            "mainClass": "Extra.AN_SEA.PriorityCaching",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountTriplets",
+            "request": "launch",
+            "mainClass": "hackerrank.DictionariesAndHashMaps.CountTriplets",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
+            "name": "Launch Beacon",
+            "request": "launch",
+            "mainClass": "Extra.Beacon",
+            "projectName": "codingQuestions_e1e39e03"
+        },
+        {
+            "type": "java",
             "name": "Launch Inheritance",
             "request": "launch",
             "mainClass": "hackerrank.Java.Inheritance",

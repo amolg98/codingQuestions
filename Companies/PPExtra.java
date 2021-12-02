@@ -1,4 +1,4 @@
-package Extra;
+package Companies;
 
 public class PPExtra {
 

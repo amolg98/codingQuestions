@@ -1,4 +1,4 @@
-package Extra;
+package Companies;
 
 import java.util.List;
 import java.util.ArrayList;

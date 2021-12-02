@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="720.5770" tests="6" failures="6">
+  <testsuite name="Root Suite" timestamp="2021-09-12T21:53:14" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="github_tests" timestamp="2021-09-12T21:53:14" tests="6" file="/projects/challenge/test/test.js" time="720.5770" failures="6">
+    <testcase name="github_tests http00.json: Sample Test" time="120.1010" classname="http00.json: Sample Test">
+      <failure message="Timeout of 120000ms exceeded. For async tests and hooks, ensure &quot;done()&quot; is called; if returning a Promise, ensure it resolves." type="Error"><![CDATA[Error: Timeout of 120000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.]]></failure>
+    </testcase>
+    <testcase name="github_tests http01.json: Additional Test 1" time="120.1010" classname="http01.json: Additional Test 1">
+      <failure message="Timeout of 120000ms exceeded. For async tests and hooks, ensure &quot;done()&quot; is called; if returning a Promise, ensure it resolves." type="Error"><![CDATA[Error: Timeout of 120000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.]]></failure>
+    </testcase>
+    <testcase name="github_tests http02.json: Additional Test 2" time="120.0910" classname="http02.json: Additional Test 2">
+      <failure message="Timeout of 120000ms exceeded. For async tests and hooks, ensure &quot;done()&quot; is called; if returning a Promise, ensure it resolves." type="Error"><![CDATA[Error: Timeout of 120000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.]]></failure>
+    </testcase>
+    <testcase name="github_tests http03.json: Additional Test 3" time="120.0840" classname="http03.json: Additional Test 3">
+      <failure message="Timeout of 120000ms exceeded. For async tests and hooks, ensure &quot;done()&quot; is called; if returning a Promise, ensure it resolves." type="Error"><![CDATA[Error: Timeout of 120000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.]]></failure>
+    </testcase>
+    <testcase name="github_tests http04.json: Additional Test 4" time="120.1010" classname="http04.json: Additional Test 4">
+      <failure message="Timeout of 120000ms exceeded. For async tests and hooks, ensure &quot;done()&quot; is called; if returning a Promise, ensure it resolves." type="Error"><![CDATA[Error: Timeout of 120000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.]]></failure>
+    </testcase>
+    <testcase name="github_tests http05.json: Additional Test 5" time="120.0990" classname="http05.json: Additional Test 5">
+      <failure message="Timeout of 120000ms exceeded. For async tests and hooks, ensure &quot;done()&quot; is called; if returning a Promise, ensure it resolves." type="Error"><![CDATA[Error: Timeout of 120000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>
